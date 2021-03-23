@@ -1,0 +1,11 @@
+---
+title: "Simple Website"
+author: "Onyeka Emmanuel"
+date: "3/23/2021"
+output: html_document
+---
+
+# The Simple Yet Awesome Website
+## Note: The 6 lines of text above are the YAML tags
+### We will knit the RMD to the html file next
+Then push index.html to the github.io repo.
